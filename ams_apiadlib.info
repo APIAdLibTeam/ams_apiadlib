@@ -1,0 +1,10 @@
+name        = AMS APIAdlib
+description = "AMS wrapper for APIAdLib library."
+package     = Advertisement Management System
+core        = 7.x
+php         = 5.2
+version     = "7.x-0.0.2-dev"
+files[]     = ams_apiadlib.install
+files[]     = ams_apiadlib.module
+files[]     = ams_apiadlib.functions.inc
+files[]     = ams_apiadlib.soapclient.inc

@@ -1,0 +1,17 @@
+<?php
+
+/**
+  * @file
+  * AMS wrapper module for APIAdLib library. Module installer.
+  *     
+  */
+
+/**
+ *  _install()
+ */   
+function ams_apiadlib_install() {
+  //TODO: ~ 22.03.2012 16:03:30 check is apiadlib installed. Use Libraries API.
+  
+  //TODO: ~ 22.03.2012 16:04:29 verify apiadlib version
+} 
+

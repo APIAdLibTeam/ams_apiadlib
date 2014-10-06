@@ -1,6 +1,6 @@
 ## ams_apiadlib
 
-Drupal 7.x. wrapper module for APIAdLib library for using in set of AMS modules and other.
+Drupal 7.x. wrapper module for [APIAdLib library](https://github.com/APIAdLibTeam/apiadlib "APIAdLib") for using in [set of AMS modules](https://bitbucket.org/ams_team "AMS Team") and other.
 
 -   Contributors: pshentsoff
 -   Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FGRFBSFEW5V3Y
